@@ -1,0 +1,14 @@
+uvicorn[standard]
+fastapi
+bcrypt
+python-jose[cryptography]
+pydantic[email]
+sqlalchemy
+python-multipart
+passlib
+black
+requests
+python-dateutil
+python-dotenv
+pytest
+pytest-mock
